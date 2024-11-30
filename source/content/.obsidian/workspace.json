@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Some note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Some note"
+              "title": "Enlaces entrantes de index"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Some note"
+              "title": "Enlaces salientes de index"
             }
           },
           {
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Some note"
+              "title": "Esquema de index"
             }
           }
         ]
@@ -178,10 +163,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "category-folder/index.md",
+    "SpringBoot Cheatsheet/ORM/JPA.md",
+    "SpringBoot Cheatsheet/ORM/Hibernate.md",
+    "SpringBoot Cheatsheet/ORM",
+    "SpringBoot Cheatsheet/Java",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/IDEs/Visual Studio Code.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/IDEs/IntelliJ.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/IDEs/Eclipse.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/Variables de entorno.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/Maven.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/Java.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot/IDEs",
+    "SpringBoot Cheatsheet/Anotaciones/Inicio Anotaciones.md",
+    "SpringBoot Cheatsheet/Anotaciones/Anotaciones REST.md",
+    "SpringBoot Cheatsheet/Elementos para desarrollo con Spring Boot",
+    "SpringBoot Cheatsheet/Índice.md",
+    "SpringBoot Cheatsheet/Spring Errors-Exceptions.md",
+    "SpringBoot Cheatsheet/Interceptores Spring.md",
+    "SpringBoot Cheatsheet/Spring desde Terminal.md",
+    "SpringBoot Cheatsheet/SpEL (Spring Expression Language).md",
+    "SpringBoot Cheatsheet/Scope.md",
+    "SpringBoot Cheatsheet/JEE.md",
+    "SpringBoot Cheatsheet/Inicio.md",
+    "SpringBoot Cheatsheet/Dependencias.md",
+    "SpringBoot Cheatsheet/DI (inyección de dependencias).md",
+    "SpringBoot Cheatsheet/Definiciones.md",
+    "SpringBoot Cheatsheet/AOP (Programación orientada a Aspectos).md",
+    "SpringBoot Cheatsheet/Crear nuevo proyecto Spring.md",
+    "SpringBoot Cheatsheet/Anotaciones",
+    "SpringBoot Cheatsheet",
     "category-folder/Some note.md",
+    "category-folder/index.md",
     "index.md",
     "category-folder"
   ]
